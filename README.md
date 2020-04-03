@@ -6,7 +6,7 @@ APIを使用したコンビニ商品検索アプリ
 ![result.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/592467/e770dcc8-5d2d-7259-8600-020d6fe4676b.gif)
 
 
-※gif用に5秒タイマーになっています。
+
 
 # Features
 ・「お菓子の虜 web API」を使用
